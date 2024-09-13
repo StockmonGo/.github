@@ -46,44 +46,37 @@
 https://github.com/user-attachments/assets/40775312-7100-4c5a-a852-979a0f9766b1
 
 ### 스톡 타워
-![스톡몬월드시연영상-_online-video-cutter com_-_1_](https://github.com/user-attachments/assets/118a321a-2c55-4547-8588-0defb495c5ca)
+<img src="https://github.com/user-attachments/assets/118a321a-2c55-4547-8588-0defb495c5ca" width="200px" alt="스톡 타워 GIF">
 
 ### 포획 게임
-![스톡몬월드시연영상-_online-video-cutter com_-_2_](https://github.com/user-attachments/assets/0a6c9941-9492-4e29-be84-436ff408adfb)
+<img src="https://github.com/user-attachments/assets/0a6c9941-9492-4e29-be84-436ff408adfb" width="200px" alt="포획 게임">
 
 ## 📖 도감
 ### 획득 스톡몬 목록
-![스톡몬월드시연영상-_online-video-cutter com_-_3_](https://github.com/user-attachments/assets/d9fcb172-ce79-47a2-97d3-1a49d1b4fb58)
+<img src="https://github.com/user-attachments/assets/d9fcb172-ce79-47a2-97d3-1a49d1b4fb58" width="200px" alt="획득 스톡몬 목록">
 
 ### 스톡몬 상세 페이지
-![스톡몬월드시연영상-_online-video-cutter com_-_5_](https://github.com/user-attachments/assets/f476a621-2e1e-4bd9-a860-e4bddf0c85ab)
+<img src="https://github.com/user-attachments/assets/f476a621-2e1e-4bd9-a860-e4bddf0c85ab" width="200px" alt="스톡몬 상세 페이지">
 
 ### 마당
-![스톡몬월드시연영상-_online-video-cutter com_-_4_](https://github.com/user-attachments/assets/85aace8c-58e8-4aa2-af09-0c421a396a7d)
-
+<img src="https://github.com/user-attachments/assets/85aace8c-58e8-4aa2-af09-0c421a396a7d" width="200px" alt="마당">
 
 ## 🙍 마이페이지 & 주식 보상
-
 ### 소수점 주식 교환
 https://github.com/user-attachments/assets/81ac131c-5b78-4655-99e5-6530a4529a7e
-
-
 ### 계좌 개설 시 보상 제공
-![스톡몬월드시연영상-_online-video-cutter com_-_6_](https://github.com/user-attachments/assets/bb56d5de-68dc-4818-bf6b-3eda74c51f9d)
+<img src="https://github.com/user-attachments/assets/bb56d5de-68dc-4818-bf6b-3eda74c51f9d" width="200px" alt="계좌 개설 시 보상 제공">
 
 ### 계좌 정보 확인
-
-
 https://github.com/user-attachments/assets/7b4e73b9-7f54-4f47-b8e9-b2e8f1cefd44
 
-
 ## 🧑‍🤝‍🧑 동맹 관계
-
 ### 동맹 목록
-![스톡몬월드시연영상-_online-video-cutter com_-_8_](https://github.com/user-attachments/assets/a8162888-309e-47f1-be7a-4b9c707a0768)
+<img src="https://github.com/user-attachments/assets/a8162888-309e-47f1-be7a-4b9c707a0768" width="200px" alt="동맹 목록">
 
 ### 스톡몬 교환
-![스톡몬월드시연영상-_online-video-cutter com_-_9_](https://github.com/user-attachments/assets/febdb95a-76d2-4e33-9100-000b5c86f7c6)
+<img src="https://github.com/user-attachments/assets/febdb95a-76d2-4e33-9100-000b5c86f7c6" width="200px" alt="스톡몬 교환">
+
 
  # 👋🏻 참여 인원
 <table style="border: 0.5 solid gray">
