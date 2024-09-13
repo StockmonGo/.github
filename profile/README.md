@@ -43,10 +43,10 @@
 <!-- mp4인 영상들 gif로 변환하기-->
 ## 🗺️ 맵 기능
 ### 지도 기반의 맵 이동
-https://github.com/user-attachments/assets/40775312-7100-4c5a-a852-979a0f9766b1
+<img src="https://github.com/user-attachments/assets/9c258e9d-1993-44fd-b24c-cbe7846f6bb4" width="200px" alt="지도 기반의 맵 이동">
 
 ### 스톡 타워
-<img src="https://github.com/user-attachments/assets/118a321a-2c55-4547-8588-0defb495c5ca" width="200px" alt="스톡 타워 GIF">
+<img src="https://github.com/user-attachments/assets/118a321a-2c55-4547-8588-0defb495c5ca" width="200px" alt="스톡 타워">
 
 ### 포획 게임
 <img src="https://github.com/user-attachments/assets/0a6c9941-9492-4e29-be84-436ff408adfb" width="200px" alt="포획 게임">
@@ -63,12 +63,13 @@ https://github.com/user-attachments/assets/40775312-7100-4c5a-a852-979a0f9766b1
 
 ## 🙍 마이페이지 & 주식 보상
 ### 소수점 주식 교환
-https://github.com/user-attachments/assets/81ac131c-5b78-4655-99e5-6530a4529a7e
+<img src="https://github.com/user-attachments/assets/7f7215f1-5c19-447e-801a-6ccabf98d548" width="200px" alt="소수점 주식 교환">
+
 ### 계좌 개설 시 보상 제공
 <img src="https://github.com/user-attachments/assets/bb56d5de-68dc-4818-bf6b-3eda74c51f9d" width="200px" alt="계좌 개설 시 보상 제공">
 
 ### 계좌 정보 확인
-https://github.com/user-attachments/assets/7b4e73b9-7f54-4f47-b8e9-b2e8f1cefd44
+<img src="https://github.com/user-attachments/assets/b2ad7c7e-2201-4335-9933-ee7e64d45e6e" width="200px" alt="계좌 정보 확인">
 
 ## 🧑‍🤝‍🧑 동맹 관계
 ### 동맹 목록
