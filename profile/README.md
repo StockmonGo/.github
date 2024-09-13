@@ -40,43 +40,59 @@
 - 신규 계좌 개설을 유도시키자
 
 # ❤ 프로젝트 주요 기능
-<!-- mp4인 영상들 gif로 변환하기-->
 ## 🗺️ 맵 기능
-### 지도 기반의 맵 이동
-<img src="https://github.com/user-attachments/assets/9c258e9d-1993-44fd-b24c-cbe7846f6bb4" width="200px" alt="지도 기반의 맵 이동">
-
-### 스톡 타워
-<img src="https://github.com/user-attachments/assets/118a321a-2c55-4547-8588-0defb495c5ca" width="200px" alt="스톡 타워">
-
-### 포획 게임
-<img src="https://github.com/user-attachments/assets/0a6c9941-9492-4e29-be84-436ff408adfb" width="200px" alt="포획 게임">
+<table style="border: 0.5 solid gray">
+  <tr>
+    <td align="center"><h3>지도 기반의 맵 이동</h3></td>
+    <td align="center" style="border-right : 0.5px solid gray"><h3>스톡 타워</h3></td>
+    <td align="center"><h3>포획 게임</h3></td>
+  </tr>
+ <tr>
+    <td align="center"><img src="https://github.com/user-attachments/assets/9c258e9d-1993-44fd-b24c-cbe7846f6bb4" width="200px" alt="지도 기반의 맵 이동"></td>
+    <td align="center" style="border-right : 0.5px solid gray"><img src="https://github.com/user-attachments/assets/118a321a-2c55-4547-8588-0defb495c5ca" width="200px" alt="스톡 타워"></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/0a6c9941-9492-4e29-be84-436ff408adfb" width="200px" alt="포획 게임"></td>
+  </tr>
+</table>
 
 ## 📖 도감
-### 획득 스톡몬 목록
-<img src="https://github.com/user-attachments/assets/d9fcb172-ce79-47a2-97d3-1a49d1b4fb58" width="200px" alt="획득 스톡몬 목록">
-
-### 스톡몬 상세 페이지
-<img src="https://github.com/user-attachments/assets/f476a621-2e1e-4bd9-a860-e4bddf0c85ab" width="200px" alt="스톡몬 상세 페이지">
-
-### 마당
-<img src="https://github.com/user-attachments/assets/85aace8c-58e8-4aa2-af09-0c421a396a7d" width="200px" alt="마당">
+<table style="border: 0.5 solid gray">
+  <tr>
+    <td align="center"><h3>획득 스톡몬 목록</h3></td>
+    <td align="center" style="border-right : 0.5px solid gray"><h3>스톡몬 상세 페이지</h3></td>
+    <td align="center"><h3>마당</h3></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://github.com/user-attachments/assets/d9fcb172-ce79-47a2-97d3-1a49d1b4fb58" width="200px" alt="획득 스톡몬 목록"></td>
+    <td align="center" style="border-right : 0.5px solid gray"><img src="https://github.com/user-attachments/assets/f476a621-2e1e-4bd9-a860-e4bddf0c85ab" width="200px" alt="스톡몬 상세 페이지"></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/85aace8c-58e8-4aa2-af09-0c421a396a7d" width="200px" alt="마당"></td>
+  </tr>
+</table>
 
 ## 🙍 마이페이지 & 주식 보상
-### 소수점 주식 교환
-<img src="https://github.com/user-attachments/assets/7f7215f1-5c19-447e-801a-6ccabf98d548" width="200px" alt="소수점 주식 교환">
-
-### 계좌 개설 시 보상 제공
-<img src="https://github.com/user-attachments/assets/bb56d5de-68dc-4818-bf6b-3eda74c51f9d" width="200px" alt="계좌 개설 시 보상 제공">
-
-### 계좌 정보 확인
-<img src="https://github.com/user-attachments/assets/b2ad7c7e-2201-4335-9933-ee7e64d45e6e" width="200px" alt="계좌 정보 확인">
+<table style="border: 0.5 solid gray">
+  <tr>
+    <td align="center"><h3>소수점 주식 교환</h3></td>
+    <td align="center" style="border-right : 0.5px solid gray"><h3>계좌 개설 시 보상 제공</h3></td>
+    <td align="center"><h3>계좌 정보 확인</h3></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://github.com/user-attachments/assets/7f7215f1-5c19-447e-801a-6ccabf98d548" width="200px" alt="소수점 주식 교환"></td>
+    <td align="center" style="border-right : 0.5px solid gray"><img src="https://github.com/user-attachments/assets/bb56d5de-68dc-4818-bf6b-3eda74c51f9d" width="200px" alt="계좌 개설 시 보상 제공"></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/00c76e2d-f642-4f0a-bd49-75b27a529a23" width="200px" alt="계좌 정보 확인"></td>
+  </tr>
+</table>
 
 ## 🧑‍🤝‍🧑 동맹 관계
-### 동맹 목록
-<img src="https://github.com/user-attachments/assets/a8162888-309e-47f1-be7a-4b9c707a0768" width="200px" alt="동맹 목록">
-
-### 스톡몬 교환
-<img src="https://github.com/user-attachments/assets/febdb95a-76d2-4e33-9100-000b5c86f7c6" width="200px" alt="스톡몬 교환">
+<table style="border: 0.5 solid gray">
+  <tr>
+    <td align="center"><h3>동맹 목록</h3></td>
+    <td align="center" style="border-right : 0.5px solid gray"><h3>스톡몬 교환</h3></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://github.com/user-attachments/assets/a8162888-309e-47f1-be7a-4b9c707a0768" width="200px" alt="동맹 목록"></td>
+    <td align="center" style="border-right : 0.5px solid gray"><img src="https://github.com/user-attachments/assets/febdb95a-76d2-4e33-9100-000b5c86f7c6" width="200px" alt="스톡몬 교환"></td>
+  </tr>
+</table>
 
 
  # 👋🏻 참여 인원
